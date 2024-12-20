@@ -1,0 +1,35 @@
+Date: 12/16/24
+I just started this project today, I feel a little bit behind on the progress. I was absent on Friday
+which puts me significantly behind of everyone else because of how much I missed, which is the Caesar
+and substitution ciphers. I have started to work on the Caesar and Substitution Ciphers but I don't
+know how hard or challenging they will be to complete.
+
+Date: 12/17/24
+I completed the Caesar cipher, as it was pretty easy and the code was provided in a previous week, which I
+greatly appreciate as the code helped me quickly advance to the substitution cipher. I worked on the cipher
+logic today, and I also decided on the second cipher I needed to do, which was Viginere, a similar version of
+Caesar with a different calculation concept, requiring a table to check values. I am through some of the 
+Substitution, and not as far with the Viginere as I would have hoped.
+
+Date: 12/18/24
+I am struggling with the generation of the substitution ciphers and the viginere ciphers, as those are the 
+two hardest. I am fully done and not going to mention Caesar now, but the conversion is giving me a
+little trouble for viginere and substitution. As well as that, the key that is being generated is only going
+forwards, giving me a double encode instead of one encode and one decode, re-outputting my original input. Not
+to mention using traditional decoder websites like dcode.fr, recommended by Mr. Estep doesnt work on this code at
+all. It is a combination of my code and the way that I have set it up that is stumping me, so I need to fix the logical portions of these
+two ciphers.
+
+Date: 12/19/24 - 8:27 PM
+I have finally finished the substitution cipher and the main.java for my code, all that I need to do is now fix the viginere cipher and 
+I will be complete with this project. I have simplified a lot of the code and I hope that now it is very readable
+but it also makes a lot of intuitive sense on how it works, especially substitution, as it checks whether the character
+is upper or lowercase and performs the same action, leaving out all unnecessary characters, which I am very proud of. 
+
+Date: 12/19/24 - 11:29 PM
+My Viginere cipher is fully complete, and it is a very simple design. My main is also revised, and it is long for a main 
+but it is functional, with a lot of input validation and checking. I just need to fix formatting and the styling of the code
+and add comments to each and every section. I also just pushed this code to GitHub as proof of the projects I am doing in this class. 
+I am keeping a record of all the computer science projects and the engineering projects that I do, with code records in GitHub so if 
+I ever need a coding internship I can show these as projects I have done. I regret procrastinating this much on the code.
+
