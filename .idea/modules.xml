@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Benchmarks/Benchmarks.iml" filepath="$PROJECT_DIR$/Benchmarks/Benchmarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CipherProject/CipherProject.iml" filepath="$PROJECT_DIR$/CipherProject/CipherProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PHSCompSciProjects.iml" filepath="$PROJECT_DIR$/.idea/PHSCompSciProjects.iml" />
+    </modules>
+  </component>
+</project>
